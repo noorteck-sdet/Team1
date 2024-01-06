@@ -1,5 +1,6 @@
 package hw;
 
+import java.util.HashMap;
 import java.util.TreeMap;
 
 public class HWDemo {
@@ -21,8 +22,23 @@ public class HWDemo {
 	team1Hobbies.put("Noor", null);
 	team1Hobbies.put("Maboob", null);
 	team1Hobbies.put("Gustavo", "Soccer");
+	team1Hobbies.put("Freshta", null);
+	team1Hobbies.put("Erick", null);
+
 	
+	
+	//Team1 Number of SCREENS
+	HashMap<String,Integer>screenTotal = new HashMap<String,Integer>();
+	//How many screen do you use now?
+	screenTotal.put("Gustavo", 2);
+	screenTotal.put("Noor", null);
+	screenTotal.put("Karina", null);
+	screenTotal.put("Maboob", null);
+	screenTotal.put("Freshta", null);
+	screenTotal.put("Erick", null);
+	screenTotal.put("Cindy", null);
 	
 	}
+	
 	
 }
