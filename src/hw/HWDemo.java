@@ -8,7 +8,7 @@ public class HWDemo {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("Mabood Please Push a line of code at Saturday 3AM");
+		System.out.println("Everyone!!!!! Please Push a line of code at Saturday 3AM");
 		// Lets do it i will push one too at 3AM 
 		
 	}
