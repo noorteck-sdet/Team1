@@ -20,7 +20,7 @@ public class HWDemo {
 	team1Hobbies.put("Karina","Dancing");
 	team1Hobbies.put("Noor", null);
 	team1Hobbies.put("Maboob", null);
-	team1Hobbies.put("Gustavo", null);
+	team1Hobbies.put("Gustavo", "Soccer");
 	
 	
 	}
