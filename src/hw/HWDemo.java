@@ -14,9 +14,9 @@ public class HWDemo {
 		// Lets do it i will push one too at 3AM 
 		
 		
-		
+	//Team1 hobbies before Java 	
 	TreeMap<String,String>team1Hobbies= new TreeMap<String,String>();
-	
+	//share your hobbies guys! 
 	team1Hobbies.put("Karina","Dancing");
 	team1Hobbies.put("Noor", null);
 	team1Hobbies.put("Maboob", null);
