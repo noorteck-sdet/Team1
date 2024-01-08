@@ -33,22 +33,23 @@ public class HWDemo {
 		screenTotal.put("Freshta", null);
 		screenTotal.put("Erick", null);
 		screenTotal.put("Cindy", null);
-		// Lets do it i will push one too at 3AM 
-		
-		
-		// Its Noor Zazai and I pushed the code at 3AM Lol
-		
-		
-		
-  	}
-	 public void mee(int abc, int bca) {
-		   System.out.println(abc + bca + " Team 1" );
-		   
-		   
-		  
-		   }
+		// Lets do it i will push one too at 3AM
 
-		
+		// Its Noor Zazai and I pushed the code at 3AM Lol
 
 	}
 
+	public void mee(int abc, int bca) {
+		System.out.println(abc + bca + " Team 1");
+
+	}
+
+	// Monday Code!
+	public void monday() {
+		String m = "Class Today";
+		String s = "No Class";
+		System.out.println(m);
+
+	}
+
+}
